@@ -1,4 +1,4 @@
-# 🛡️ NIDS_PYTHON  
+# 🛡️ PyIDS  
 A custom GUI-based Network Intrusion Detection System (NIDS) written in Python.  
 It supports live packet capturing, signature-based alerting, decoded payload viewing, and TCP/HTTP2 stream following.
 
