@@ -41,4 +41,4 @@ Ensure `savedpcap/` and `temp/` folders exist.
 **ALERT DECODED** → View decoded payloads for alerts  
 **TCP STREAMS** → View TCP streams (select to inspect)  
 **HTTP2 STREAMS** → View HTTP2 streams  
-**HTTP OBJECTS** → Extract objects from HTTP streams
+**HTTP OBJECTS** → Extract objects from HTTP streams.
